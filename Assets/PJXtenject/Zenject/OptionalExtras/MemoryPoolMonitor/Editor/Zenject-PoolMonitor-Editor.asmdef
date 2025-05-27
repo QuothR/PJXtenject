@@ -1,0 +1,13 @@
+{
+    "name": "Zenject-PoolMonitor-Editor",
+    "references": [
+        "Zenject",
+        "Zenject-Editor",
+        "UnityEditor.TestRunner",
+        "UnityEngine.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

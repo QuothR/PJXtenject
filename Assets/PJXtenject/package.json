@@ -1,0 +1,7 @@
+﻿{
+  "name": "pjxtenject",
+  "displayName": "PJXtenject",
+  "version": "1.0.0",
+  "description": "Extenject wrapper with extra QoL features and embedded logging.",
+  "unity": "6000.0.48"
+}
